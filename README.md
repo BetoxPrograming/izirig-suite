@@ -61,17 +61,14 @@ Excluded:
 ```text
 docs/
 │
-├── thesis/
-├── planning/
-├── ux-ui/
 ├── manuals/
+├── planning/
+├── software-design/
 ├── user-research/
-└── case-study/
+└── IZI_RIG_Graduation_Project_ES.pdf
 
 media/
 │
-├── banners/
-├── logos/
 ├── images/
 └── videos-links.md
 ```
@@ -160,21 +157,17 @@ Features:
 
 ## 📚 Documentation
 
-This repository may include:
+Available documentation includes:
 
-- Graduation project document
-- Production plan
-- Content list
-- Content map
-- Site map
-- UX/UI design material
-- Low fidelity prototypes
-- User research
-- Installation manual
+- Final graduation project document
 - User manual
-- Private defense material
-- Pitch versions
-- Case study documentation
+- Functional requirements
+- User experience strategy
+- Production plan
+- Project case study
+- Interface design process
+- User feedback
+- Public video references
 
 ---
 
@@ -204,7 +197,8 @@ IziRig Suite continued as a broader toolset after the academic delivery.
 
 ## 📄 License
 
-See LICENSE file.
+This repository uses a documentation-focused license.
 
-This repository is focused on documentation, planning and project evidence.  
-Core source code is intentionally excluded.
+The material may be viewed and shared with attribution, but commercial use, modification and derivative works are not permitted.
+
+See [LICENSE](LICENSE).
