@@ -26,7 +26,7 @@ The academic scope of the graduation project was limited to implementing the hum
 
 After the university project, the toolset continued evolving into **IziRig Suite**, adding complementary tools such as **IziCurve** and **IziRename**, which were later uploaded and sold through FlippedNormals.
 
-[Read the graduation project document](docs/thesis/izirig-graduation-project.pdf)
+[Read the graduation project document](docs/IZI_RIG_Graduation_Project_ES.pdf)
 
 ---
 
@@ -106,7 +106,7 @@ media/
 
 ## 🛠 Main Components
 
-### <img src="media/izihuman-mini.png" width="24" alt="IziHuman logo"> IziHuman
+### <img src="media/images/logos/izihuman-mini.png" width="28" alt="IziHuman logo"> IziHuman
 
 IziHuman is the humanoid auto-rigging tool originally presented as **Izi Rig** in the graduation project.
 
